@@ -1,0 +1,4 @@
+claim_id,patient_id,claim_amount
+C001,P001,12000
+C002,P002,800
+C003,P003,20000

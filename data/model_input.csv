@@ -1,0 +1,4 @@
+age,gender,encounter_id,length_of_stay,claim_id,claim_amount,age_check,gender_match,high_cost
+65,M,E001,5,C001,12000,65,1,1
+45,F,E002,2,C002,800,45,1,0
+82,F,E003,7,C003,20000,82,1,1
