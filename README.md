@@ -47,13 +47,14 @@ Built entirely in **AWS SageMaker**, the project simulates a real-world healthca
 
 ## 🛠️ Project Structure
 
+```
 GenAI-EHR-Predictor/
 │
 ├── data/ # Input and output CSVs
 ├── notebooks/ # SageMaker notebooks
 ├── scripts/ # Preprocessing & training logic
 ├── README.md # You’re here!
-
+```
 
 
 ---
