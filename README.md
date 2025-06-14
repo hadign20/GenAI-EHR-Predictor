@@ -9,6 +9,15 @@ Built entirely in **AWS SageMaker**, the project simulates a real-world healthca
 
 ---
 
+## 🚀 Live Demo
+
+👉 [Try the Streamlit App](https://hadign20-genai-ehr-predictor.streamlit.app)
+
+Upload EHR & claims data, and get real-time GenAI explanations for high-cost patients!
+
+---
+
+
 ## 🚀 What It Does
 
 - ✅ Simulates real-world **EHR + claims data**
